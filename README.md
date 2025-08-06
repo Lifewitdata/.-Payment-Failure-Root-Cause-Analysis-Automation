@@ -25,5 +25,16 @@ This project focuses on identifying, analyzing, and automating the detection of 
 
 ---
 
+---
+
+## 📈 Key Findings / Results
+- 🔹 **Top 3 error codes** accounted for over **70% of all failures**, most tied to payment gateway timeouts.  
+- 🔹 Found that **evening hours (7–10 PM)** saw a spike in failure rates — likely due to high concurrency/load.  
+- 🔹 Built an **automated summary generator** for top failure codes, timestamps, and gateways for daily reporting.
+
+---
+
+
+
 ## 🧪 Project Structure
 
